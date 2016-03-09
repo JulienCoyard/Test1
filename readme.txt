@@ -9,3 +9,4 @@ Je commence un bug fix
 Je commence à coder une nouveauté
 Je termine la nouveauté
 a
+Utilisateur 2 travaille et développe du code de qualité 
